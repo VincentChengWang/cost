@@ -1,4 +1,4 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8"
+﻿<%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
 <%
 	//获取绝对路径路径 
@@ -37,7 +37,7 @@
 		<div class="navbar-container" id="navbar-container">
 			<div class="navbar-header pull-left">
 				<a href="#" class="navbar-brand"> <small> <i
-						class="icon-leaf"></i>柠檬费用管理系统
+						class="icon-leaf"></i>费用管理系统
 				</small>
 				</a>
 				<!-- /.brand -->

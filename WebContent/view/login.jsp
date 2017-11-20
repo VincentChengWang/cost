@@ -1,4 +1,4 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8"
+﻿<%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
 <%
 	//获取绝对路径路径 
@@ -47,7 +47,7 @@ $(function(){
 					<div class="login-container">
 						<div class="center">
 							<h1>
-								<i class="icon-leaf green"></i> <span class="red">柠檬</span> <span
+								<i class="icon-leaf green"></i> <span class="red">XX</span> <span
 									class="white">企业费用管理系统</span>
 							</h1>
 							<h4 class="blue"></h4>
